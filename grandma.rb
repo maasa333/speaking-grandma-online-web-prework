@@ -1,5 +1,5 @@
 def speak_to_grandma ("I LOVE YOU GRANDMA!")
-    if "I love you Grandma!".upcase 
+    if "I love you Grandma!".upcase
     puts "I LOVE YOU TOO PUMPKIN!"
 end
 
