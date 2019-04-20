@@ -1,5 +1,6 @@
-def speak_to_grandma (response = "I LOVE YOU GRANDMA!")
-  if response == true
+def speak_to_grandma (love)
+  love = "I love you Grandma".upcase 
+    if true
     puts "I LOVE YOU TOO PUMPKIN!"
 end
 
