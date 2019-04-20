@@ -1,8 +1,8 @@
 
-if == "I LOVE YOU GRANDMA!".upcase 
+if == "I LOVE YOU GRANDMA!".upcase
   puts "I LOVE YOU TOO PUMPKIN!"
-  
-  
+
+
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
