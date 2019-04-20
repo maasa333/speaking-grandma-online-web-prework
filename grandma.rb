@@ -1,4 +1,4 @@
-speak_to_grandma = "I LOVE YOU GRANDMA!"
+def speak_to_grandma = "I LOVE YOU GRANDMA!"
 
 if == "I LOVE YOU GRANDMA!".upcase
   puts "I LOVE YOU TOO PUMPKIN!"
