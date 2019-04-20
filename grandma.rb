@@ -1,7 +1,6 @@
-response = "I LOVE YOU GRANDMA!"
-
-if response = "I LOVE YOU GRANDMA!"
-  puts "I LOVE YOU TOO PUMPKIN!"
+def speak_to_grandma (response == "I LOVE YOU GRANDMA!")
+  if response == true
+    puts "I LOVE YOU TOO PUMPKIN!"
 end
 
 # Write a speak_to_grandma method.
